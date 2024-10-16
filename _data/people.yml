@@ -26,13 +26,13 @@ wolverine:
 
 
     
-bizhu:
-    display_name: "张碧竹 Bizhu Zhang"
+seahouse:
+    display_name: "Sea House"
     role: grad
     image: /img/people/bizhu.jpg
 
-kedeng:
-    display_name: "吴克登 Kedeng Wu"
+dolphin:
+    display_name: "Dolphin"
     role: grad
     image: /img/people/kedeng.jpg
 
@@ -49,37 +49,37 @@ alum-a:
     bio: "Ph.D., 2013. Now at Microsoft Research."
 
 
-chenxi:
-    display_name: "陈曦 [导师] Xi Chen [Advisor] "
+penguin:
+    display_name: "Penguin"
     role: collab
 
 
-xiaoyang:
-    display_name: "时笑阳 Xiaoyang Shi"
+crab:
+    display_name: "Crab"
     role: collab
 
-xiangbiao:
-    display_name: "廖湘标 Xiangbiao Liao"
+seal:
+    display_name: "Seal"
     role: collab
     
-liangliang:
-    display_name: "朱亮亮 Liangliang Zhu"
+shark:
+    display_name: "Shark"
     role: collab
 
-chenyan:
-    display_name: "陈炎 Yan Chen"
+jellyfish:
+    display_name: "Jelly fish"
     role: collab
     
-juzheng:
-    display_name: "宋居正 Juzheng Song"
+starfish:
+    display_name: "Star fish"
     role: collab
 
-yayun:
-    display_name: "张亚运 Yayun Zhang"
+clownfish:
+    display_name: "Clown fish"
     role: collab
 
-dianxing:
-    display_name: "居佃兴 Dianxing Ju"
+prawns:
+    display_name: "Prawns"
     role: collab
     
 
