@@ -5,7 +5,7 @@ profx:
     display_name: "Octopus"
     github: Octopus
     role: faculty
-    image: /img/people/hang.jpg
+    image: /img/people/cuteoctopus.png
     bio: 助理教授  Assistant Professor
     webpage: "https://scholars.ln.edu.hk/en/persons/hang-xiao"
 
@@ -27,14 +27,14 @@ wolverine:
 
     
 seahouse:
-    display_name: "Sea House"
+    display_name: "Sea Horse"
     role: grad
-    image: /img/people/bizhu.jpg
+    image: /img/people/seahorse.png
 
 dolphin:
     display_name: "Dolphin"
     role: grad
-    image: /img/people/kedeng.jpg
+    image: /img/people/dolphin.png
 
 storm:
     display_name: "虚位以待  We need you!"
